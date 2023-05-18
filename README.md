@@ -7,6 +7,9 @@ Genny is a simple web based password gen using fundamental CSS, HTML, and Javasc
 ![Genny Website](preview.png)
 
 
+## Link
+https://aetherealdev.github.io/genny/
+
 ## Usage
 The usage of genny is simple.
 
